@@ -7,6 +7,9 @@ HMVC inspired webpy starter with bootstrap ready
 2. Configure your http.conf file then follow the setups here http://webpy.org/cookbook/mod_wsgi-apache
 3. I think your done. Let me know if you have any questions.
 
+In your apps folder youll see theres a base module/apps(thats what they call it in django) you can just copy 
+the base folder and rename it to something else..
+
 My APACHE CONFIGURATION FOR WAMP SERVER
 
 `````html
