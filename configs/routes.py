@@ -1,0 +1,4 @@
+URLS = (
+    '', 'BaseController',
+    '/contact','ContactController'
+)
