@@ -15,7 +15,7 @@ My APACHE CONFIGURATION FOR WAMP SERVER
 `````html
 LoadModule wsgi_module modules/mod_wsgi.so
 
-<Directory "${path}/data/localweb">
+<Directory "${path}/public_html">
     Options Indexes FollowSymLinks ExecCGI
     AllowOverride All
     Require all granted
